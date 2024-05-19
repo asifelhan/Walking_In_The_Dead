@@ -1,3 +1,5 @@
+[Cover](https://github.com/asifhaider/Walking-In-The-Dead/blob/master/Game/Gamecover.bmp)
+
 ## Walking_In_The_Dead
  
 This is the very first project of my UnderGraduate Study Life at CSE, BUET. It was a team project.
