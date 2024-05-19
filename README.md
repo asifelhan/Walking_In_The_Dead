@@ -1,4 +1,4 @@
-[Cover](https://github.com/asifhaider/Walking-In-The-Dead/blob/master/Game/Gamecover.bmp)
+![Cover](https://github.com/asifhaider/Walking-In-The-Dead/blob/master/Game/Gamecover.bmp)
 
 ## Walking_In_The_Dead
  
